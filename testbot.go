@@ -5,6 +5,9 @@ import (
 	"github.com/nlopes/slack"
 	"os"
 	"strings"
+
+	"github.com/davecgh/go-spew/spew"
+	"github.com/slack-go/slack"
 )
 
 func main() {
