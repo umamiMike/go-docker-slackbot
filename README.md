@@ -10,6 +10,7 @@ The goal was an mvp, the other part was learning how to deploy on [GCP](https://
 - google cloud sdk
 - Cloud Project ID from your Google Cloud Console [dashboard](https://console.cloud.google.com/home/dashboard)
 
+- you will need a SLACK_TOKEN
 
 # To Build
 - run `export GOOGLE_PROJ_ID="yourProjectID"`
